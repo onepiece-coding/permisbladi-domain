@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.permisbladi.app",
+      "sha256_cert_fingerprints": [
+        "6B:BA:72:7F:EC:B7:6B:A9:BB:93:AB:4A:53:B5:7D:A3:A6:1A:BB:A2:00:86:F1:1D:8C:0B:05:72:3E:58:39:AE"
+      ]
+    }
+  }
+]
